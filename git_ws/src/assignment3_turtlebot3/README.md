@@ -23,7 +23,7 @@ Make the TurtleBot3 stop when it gets too close to the wall
 - Clone the project
 
 ```bash
-$ git clone 
+$ git clone https://github.com/pgupta2050/AuE893Spring21_PrakharGupta.git
 ```
 
 - Run the create package command:
